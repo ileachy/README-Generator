@@ -1,6 +1,6 @@
-# REAMME Generator
+# README Generator
 
-##### [ileachy](https://github.com/ileachy) [Email Me](ileach81@gmail.com)
+##### [ileachy](https://github.com/ileachy) [Email Me](ileach81@gmail.com) [Video link](https://youtu.be/MVcaNJyKLLY)
 
 #### MIT
 
@@ -42,7 +42,7 @@ Anyone is free to contribute to this repository!
 
 ## Installation Instructions
 
-To install you will need to install the npm inquirer via the command line and run the "node <fileName>.js" command.
+To install you will need to install the npm inquirer via the command line and run the "node .js" command.
 
 ### Screenshots
 
